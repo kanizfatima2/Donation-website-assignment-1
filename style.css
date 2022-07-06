@@ -5,9 +5,11 @@
 
 }
 
+/* header area section css */
+
 .header-area {
-    height: 42.5em;
-    width: 87.25em;
+    height: 100vh;
+    width: 201.6vh;
     background-image: url(images/donation13.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -40,4 +42,46 @@
     background-color: rgb(181, 33, 6);
     font-weight: 600;
     margin-left: 40%;
+}
+
+/* donate area section css */
+.donate-area-content {
+    padding: 8% 20%;
+    color: black;
+}
+
+.donate-area-content h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+.donate-area-content p {
+    font-size: 19px;
+    text-align: center;
+    padding-top: 10px;
+    margin-bottom: 8%;
+    color: gray;
+}
+
+/* amount area css */
+
+.amount {
+    width: 16%;
+    padding: 3% 2%;
+    margin-left: 3%;
+    font-weight: 900;
+    font-size: 25px;
+    border: none;
+    color: rgb(104, 100, 100);
+    display: inline;
+    text-align: center;
+    background-color: rgb(220, 216, 216);
+
+}
+
+#adiff {
+    background-color: rgb(247, 211, 216);
+    border: 2px solid rgb(227, 88, 111);
+    font-size: 30px;
+    color: tomato;
 }
