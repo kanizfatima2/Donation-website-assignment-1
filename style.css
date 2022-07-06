@@ -95,11 +95,63 @@
 .donate-area-amount-input {
     padding: 2%;
     border-bottom: 2px solid rgb(207, 202, 202);
+    margin: 5%;
     text-align: center;
-    margin-top: 5%;
 }
 
 .donate-area-amount-input input {
     border: none;
     font-size: 18px;
+
+
+}
+
+/* our donate plan css */
+.donate-plan-content {
+    width: 100%;
+    margin: 0 10%;
+}
+
+.donate-plan-1 {
+    width: 20%;
+    text-align: left;
+    padding: 5% 2%;
+    background-color: rgb(207, 244, 244);
+    display: inline-block;
+}
+
+.donate-plan-2 {
+    width: 20%;
+    text-align: left;
+    padding: 5% 2%;
+    background-color: rgb(241, 221, 224);
+    display: inline-block;
+    margin-left: 2%;
+}
+
+.donate-plan-3 {
+    width: 20%;
+    text-align: left;
+    padding: 5% 2%;
+    background-color: rgb(248, 230, 207);
+    display: inline-block;
+    margin-left: 2%;
+}
+
+
+
+.donate-plan-1,
+.donate-plan-2,
+.donate-plan-3,
+.para {
+    color: gray;
+    padding-top: 5%;
+}
+
+.donate-plan-1,
+.donate-plan-2,
+.donate-plan-3,
+.h3 {
+    color: black;
+    padding-top: 5%;
 }
