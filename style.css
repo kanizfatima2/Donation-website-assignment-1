@@ -76,6 +76,7 @@
     display: inline;
     text-align: center;
     background-color: rgb(220, 216, 216);
+    border-radius: 10px;
 
 }
 
@@ -84,4 +85,21 @@
     border: 2px solid rgb(227, 88, 111);
     font-size: 30px;
     color: tomato;
+}
+
+.amount_input {
+    text-align: center;
+
+}
+
+.donate-area-amount-input {
+    padding: 2%;
+    border-bottom: 2px solid rgb(207, 202, 202);
+    text-align: center;
+    margin-top: 5%;
+}
+
+.donate-area-amount-input input {
+    border: none;
+    font-size: 18px;
 }
