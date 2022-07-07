@@ -164,6 +164,34 @@
     padding-top: 5%;
 }
 
+/* how can you help css */
+#bgcolor_help {
+    background-color: rgb(238, 234, 234);
+}
+
+.help-content {
+    height: 100%;
+    width: 100%;
+}
+
+.help-content-1 {
+    width: 25%;
+    padding: 0 5%;
+    margin: 2%;
+    display: flex;
+    align-content: space-between;
+
+}
+
+.help-content-1 h4 {
+    padding: 4%;
+}
+
+.help-content-1 img {
+    height: 60px;
+    width: 60px;
+}
+
 /* get my updates section  */
 .update-form {
     margin: 0 15%;
