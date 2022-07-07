@@ -172,13 +172,13 @@
 .help-content {
     height: 100%;
     width: 100%;
-    display: inline-block;
+
 }
 
 .help-content-1 {
     width: 25%;
-    padding: 0 5%;
-    margin: 2%;
+    padding: 0 10% 0 15%;
+    margin: 2% 10%;
     display: flex;
     align-content: space-between;
 
