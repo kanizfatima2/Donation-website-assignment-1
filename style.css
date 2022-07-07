@@ -172,6 +172,7 @@
 .help-content {
     height: 100%;
     width: 100%;
+    display: inline-block;
 }
 
 .help-content-1 {
@@ -191,6 +192,8 @@
     height: 60px;
     width: 60px;
 }
+
+
 
 /* get my updates section  */
 .update-form {
